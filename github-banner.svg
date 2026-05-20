@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="MARD — Boring infrastructure for serious problems.">
+  <defs>
+    
+  </defs>
+
+  
+  <rect width="1280" height="640" fill="#F5F5F5"></rect>
+
+  
+  <text x="80" y="200" font-family="&#34;Space Grotesk&#34;, sans-serif" font-weight="600" font-size="140" letter-spacing="-5.6" fill="#1A2A6C">MARD</text>
+
+  <text x="80" y="260" font-family="&#34;Space Grotesk&#34;, sans-serif" font-weight="500" font-size="26" letter-spacing="-0.52" fill="#222222">Boring infrastructure</text>
+  <text x="80" y="292" font-family="&#34;Space Grotesk&#34;, sans-serif" font-weight="500" font-size="26" letter-spacing="-0.52" fill="#222222">for serious problems.</text>
+
+  <line x1="80" y1="332" x2="300" y2="332" stroke="#E4E4E4" stroke-width="1"></line>
+
+  <text x="80" y="370" font-family="&#34;Space Mono&#34;, monospace" font-size="13" fill="#6B6B6B" letter-spacing="0.52">mariano rodriguez diaz</text>
+  <text x="80" y="395" font-family="&#34;Space Mono&#34;, monospace" font-size="13" fill="#6B6B6B" letter-spacing="0.52">engineering manager · covalynt</text>
+  <text x="80" y="420" font-family="&#34;Space Mono&#34;, monospace" font-size="13" fill="#6B6B6B" letter-spacing="0.52">aws ug mixtli</text>
+
+  
+    <rect x="80" y="470" width="46" height="24" rx="2" fill="#FFFFFF" stroke="#E4E4E4" stroke-width="1"></rect>
+    <text x="103" y="486" text-anchor="middle" font-family="&#34;Space Mono&#34;, monospace" font-size="12" fill="#1A2A6C" letter-spacing="0.04em">aws</text>
+  
+    <rect x="134" y="470" width="46" height="24" rx="2" fill="#FFFFFF" stroke="#E4E4E4" stroke-width="1"></rect>
+    <text x="157" y="486" text-anchor="middle" font-family="&#34;Space Mono&#34;, monospace" font-size="12" fill="#1A2A6C" letter-spacing="0.04em">gcp</text>
+  
+    <rect x="188" y="470" width="102" height="24" rx="2" fill="#FFFFFF" stroke="#E4E4E4" stroke-width="1"></rect>
+    <text x="239" y="486" text-anchor="middle" font-family="&#34;Space Mono&#34;, monospace" font-size="12" fill="#1A2A6C" letter-spacing="0.04em">compliance</text>
+  
+    <rect x="298" y="470" width="62" height="24" rx="2" fill="#FFFFFF" stroke="#E4E4E4" stroke-width="1"></rect>
+    <text x="329" y="486" text-anchor="middle" font-family="&#34;Space Mono&#34;, monospace" font-size="12" fill="#1A2A6C" letter-spacing="0.04em">latam</text>
+  
+
+  
+  <rect x="600" y="80" width="600" height="480" rx="4" fill="#0F1A4A" filter="url(#shadow)"></rect>
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#222222" flood-opacity="0.08"></feDropShadow>
+    </filter>
+  </defs>
+
+  
+  <rect x="600" y="80" width="600" height="36" fill="rgba(255,255,255,0.04)"></rect>
+  <line x1="600" y1="116" x2="1200" y2="116" stroke="rgba(255,255,255,0.06)" stroke-width="1"></line>
+  <text x="616" y="103" font-family="&#34;Space Mono&#34;, monospace" font-size="12" fill="#8E96BA" letter-spacing="0.72">~/mariano — zsh — 92×24</text>
+  <text x="1184" y="103" text-anchor="end" font-family="&#34;Space Mono&#34;, monospace" font-size="12" fill="#8E96BA" letter-spacing="0.72">aws:us-east-1</text>
+
+  
+  
+    <text x="628" y="144" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#00C9A7">me@marianord.com</text>
+    <text x="781.6" y="144" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#8E96BA">~</text>
+    <text x="800.8" y="144" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#FFD166">$</text>
+  <text x="826.4" y="144" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">whoami</text><text x="628" y="170.4" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">mariano rodriguez diaz</text><text x="628" y="196.8" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">engineering manager · covalynt</text>
+    <text x="628" y="237.20000000000002" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#00C9A7">me@marianord.com</text>
+    <text x="781.6" y="237.20000000000002" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#8E96BA">~</text>
+    <text x="800.8" y="237.20000000000002" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#FFD166">$</text>
+  <text x="826.4" y="237.20000000000002" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">cat about.md</text><text x="628" y="263.6" font-family="&#34;Space Mono&#34;, monospace" font-size="16"><tspan fill="#FFD166"># </tspan><tspan fill="#F5F5F5">Boring infrastructure for serious problems.</tspan></text><text x="628" y="290" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#8E96BA">cloud computing for sensitive data,</text><text x="628" y="316.4" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#8E96BA">compliance, high-stakes operations.</text>
+    <text x="628" y="356.79999999999995" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#00C9A7">me@marianord.com</text>
+    <text x="781.6" y="356.79999999999995" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#8E96BA">~</text>
+    <text x="800.8" y="356.79999999999995" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#FFD166">$</text>
+  <text x="826.4" y="356.79999999999995" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">ls ./focus</text><text x="628" y="383.19999999999993" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">aws/</text><text x="695.2" y="383.19999999999993" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">gcp/</text><text x="762.4000000000001" y="383.19999999999993" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">compliance/</text><text x="896.8000000000001" y="383.19999999999993" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">mixtli/</text><text x="992.8000000000001" y="383.19999999999993" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#F5F5F5">latam/</text>
+    <text x="628" y="423.5999999999999" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#00C9A7">me@marianord.com</text>
+    <text x="781.6" y="423.5999999999999" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#8E96BA">~</text>
+    <text x="800.8" y="423.5999999999999" font-family="&#34;Space Mono&#34;, monospace" font-size="16" fill="#FFD166">$</text>
+  <rect class="cursor" x="832.4" y="409.5999999999999" width="10" height="18" fill="#FFD166"></rect>
+
+  
+  <text x="80" y="604" font-family="&#34;Space Mono&#34;, monospace" font-size="11" fill="#9A9A9A" letter-spacing="1.76">§ GITHUB.COM/MARIANORD</text>
+  <text x="1200" y="604" text-anchor="end" font-family="&#34;Space Mono&#34;, monospace" font-size="11" fill="#9A9A9A" letter-spacing="1.76">2026 · V1</text>
+</svg>

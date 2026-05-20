@@ -1,6 +1,6 @@
 # Mariano Rodríguez Díaz · `marianord`
 
-![marianord terminal image](github-banner.png)
+![marianord terminal image](github-banner.svg)
 
 > Boring infrastructure for serious problems.
 
