@@ -1,5 +1,7 @@
 # Mariano Rodríguez Díaz · `marianord`
 
+![marianord terminal image](github-banner.png)
+
 > Boring infrastructure for serious problems.
 
 **Engineering Manager @ Covalynt** · **AWS UG Mixtli Leader** · Cholula, México 🇻🇪🇲🇽
