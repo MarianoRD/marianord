@@ -38,7 +38,7 @@ how you think about it.
 * 🎤 [Sessionize](https://sessionize.com/marianord/) — speaker profile
 * ☁️ [AWS Builder Center](https://builder.aws.com/community/@marianord) — `@marianord`
 * 🦋 [Bluesky](https://bsky.app/profile/marianord.com) — `@marianord.com`
-* 🗣 [X]((https://x.com/marianord58)) — `@marianord58`
+* 🗣 [Twitter/X]((https://x.com/marianord58)) — `@marianord58`
 
 ## Talks and writing
 
