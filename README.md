@@ -36,9 +36,9 @@ how you think about it.
 * 🌐 [marianord.com](https://marianord.com) — long-form writing
 * 💼 [LinkedIn](https://www.linkedin.com/in/marianord/) — main channel
 * 🎤 [Sessionize](https://sessionize.com/marianord/) — speaker profile
-* ☁️ AWS Builder Center — `@marianord`
-* 🦋 Bluesky — `@marianord.com`
-* 🗣 X — `@marianord58`
+* ☁️ AWS Builder Center — `@[marianord](https://builder.aws.com/community/@marianord)`
+* 🦋 Bluesky — `[@marianord.com](https://bsky.app/profile/marianord.com)`
+* 🗣 X — `[@marianord58](https://x.com/marianord58)`
 
 ## Talks and writing
 
